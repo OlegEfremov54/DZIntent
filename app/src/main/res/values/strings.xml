@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DZIntent</string>
+    <string name="reset">Информация о программе</string>
+    <string name="exit">Выход</string>
+</resources>
