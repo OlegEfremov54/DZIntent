@@ -2,4 +2,12 @@
     <string name="app_name">DZIntent</string>
     <string name="reset">Информация о программе</string>
     <string name="exit">Выход</string>
+    <string name="calculate_button">Калькулятор</string>
+    <string name="resultTV">Результат</string>
+    <string name="buttonSummBTN">+</string>
+    <string name="buttonDiffBTN">-</string>
+    <string name="buttonMultBTN">*</string>
+    <string name="buttonDivBTN">/</string>
+    <string name="title">Калькулятор</string>
+    <string name="buttonLoadToMainBTN">Передать данные на главную страницу</string>
 </resources>
